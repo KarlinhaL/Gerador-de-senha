@@ -1,2 +1,2 @@
-# Gerador de senha
+# Gerador
  Projeto utilizando HTML, CSS e JavaScript
